@@ -1,0 +1,1555 @@
+[{
+  "_id": {
+    "$oid": "5f84bd070f267e4e469375e4"
+  },
+  "name": "Python developer middle",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "130 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/python-developer-middle-34655498.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd070f267e4e469375e9"
+  },
+  "name": "Старший системный администратор",
+  "salary": [
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "184 000",
+    "230 000",
+    " ",
+    "руб.",
+    "35 845",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/starshij-sistemnyj-administrator-34223195.html",
+  "min_salary": 80000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd070f267e4e469375ea"
+  },
+  "name": "Программист",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/programmist-34615972.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd070f267e4e469375eb"
+  },
+  "name": "Специалист технической поддержки и сопровождения финансового ПО (уровень 2-3)",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "45 000 руб.",
+    "до",
+    " ",
+    "65 000 руб.",
+    "от",
+    " ",
+    "20 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "104 000 руб.",
+    "65 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/specialist-tehnicheskoj-podderzhki-i-soprovozhdeniya-finansovogo-po-34607173.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375ed"
+  },
+  "name": "Data Engineer (BI инженер)",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/data-engineer-34726527.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375ee"
+  },
+  "name": "Программист",
+  "salary": [
+    "до",
+    " ",
+    "120 000 руб.",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/programmist-34672619.html",
+  "min_salary": "none",
+  "max_salary": 120000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375ef"
+  },
+  "name": "Ведущий системный администратор",
+  "salary": [
+    "По договорённости",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "184 000",
+    "230 000",
+    " ",
+    "руб.",
+    "35 845",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-sistemnyj-administrator-33495886.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375f1"
+  },
+  "name": "Chief Technical Officer (CTO)",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "400 000 руб.",
+    "до",
+    " ",
+    "350 000 руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "40 000",
+    " ",
+    "руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/chief-technical-officer-34113725.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375f7"
+  },
+  "name": "Python Backend Developer",
+  "salary": [
+    "По договорённости",
+    "184 000",
+    "185 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "180 000",
+    "220 000",
+    " ",
+    "руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/python-backend-developer-34705195.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375f9"
+  },
+  "name": "Тестировщик ПО",
+  "salary": [
+    "от",
+    " ",
+    "100 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "200 000 руб.",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/testirovschik-po-34727390.html",
+  "min_salary": 100000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375fd"
+  },
+  "name": "Аналитик",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "130 000",
+    "150 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "до",
+    " ",
+    "104 000 руб.",
+    "до",
+    " ",
+    "60 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/analitik-34741317.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375fe"
+  },
+  "name": "Системный аналитик (удаленно)",
+  "salary": [
+    "130 000",
+    "150 000",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "60 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "60 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-analitik-34675079.html",
+  "min_salary": 130000,
+  "max_salary": 150000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd080f267e4e469375ff"
+  },
+  "name": "Инженер по техническому сопровождению продаж",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/inzhener-po-tehnicheskomu-soprovozhdeniyu-prodazh-34607062.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937600"
+  },
+  "name": "Back-End Developer",
+  "salary": [
+    "184 000",
+    "185 000",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "225 000 руб.",
+    "87 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/back-end-developer-34655758.html",
+  "min_salary": 184000,
+  "max_salary": 185000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937604"
+  },
+  "name": "Python developer",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "180 000",
+    "220 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/python-developer-34692504.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937608"
+  },
+  "name": "Full-stack-веб-программист python/javascript",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/full-stack-veb-programmist-python-33998693.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937609"
+  },
+  "name": "Ведущий Python-разработчик",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-python-razrabotchik-34647562.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e4693760a"
+  },
+  "name": "Разработчик Python",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-python-34541807.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e4693760c"
+  },
+  "name": "Ведущий fullstack разработчик Python, Django, Vue.js",
+  "salary": [
+    "180 000",
+    "220 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-fullstack-razrabotchik-python-34621539.html",
+  "min_salary": 180000,
+  "max_salary": 220000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e4693760e"
+  },
+  "name": "Разработчик Python (middle, senior)",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-python-34607602.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937613"
+  },
+  "name": "Веб-разработчик, IT-специалист",
+  "salary": [
+    "По договорённости",
+    "64 500",
+    " ",
+    "руб.",
+    "30 000",
+    "35 000",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб.",
+    "40 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/veb-razrabotchik-34671671.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937616"
+  },
+  "name": "Стажер-разработчик C#",
+  "salary": [
+    "до",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/stazher-razrabotchik-c-34598474.html",
+  "min_salary": "none",
+  "max_salary": 40000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd090f267e4e46937617"
+  },
+  "name": "IT-рекрутер",
+  "salary": [
+    "до",
+    " ",
+    "130 000 руб.",
+    "от",
+    " ",
+    "70 000 руб.",
+    "По договорённости",
+    "40 000",
+    "50 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "60 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/it-rekruter-34638369.html",
+  "min_salary": "none",
+  "max_salary": 130000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e4693761b"
+  },
+  "name": "Аналитик",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "100 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "104 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/analitik-31183225.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937621"
+  },
+  "name": "Web-программист, Web-разработчик (удалённо)",
+  "salary": [
+    "от",
+    " ",
+    "30 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/web-programmist-33921626.html",
+  "min_salary": 30000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937622"
+  },
+  "name": "Генетик-аналитик данных / Data scientist",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "130 000",
+    "150 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "до",
+    " ",
+    "104 000 руб.",
+    "до",
+    " ",
+    "60 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/genetik-analitik-dannyh-33864238.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937625"
+  },
+  "name": "Ведущий инженер-программист / разработчик программных решений",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "120 000 руб.",
+    "90 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "50 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-programmist-34302346.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937626"
+  },
+  "name": "NLP Software Developer / NLP программист-разработчик",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/nlp-software-developer-33788779.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937627"
+  },
+  "name": "Учитель информатики",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "78 000 руб.",
+    "от",
+    " ",
+    "78 000 руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/uchitel-informatiki-27807302.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937629"
+  },
+  "name": "DevOps инженер",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/devops-inzhener-34611408.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e4693762e"
+  },
+  "name": "Системный администратор, IT-специалист, программист",
+  "salary": [
+    "90 000",
+    "100 000",
+    " ",
+    "руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "184 000",
+    "230 000",
+    " ",
+    "руб.",
+    "35 845",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-33845400.html",
+  "min_salary": 90000,
+  "max_salary": 100000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937630"
+  },
+  "name": "Алготрейдер-эксперт (крипто)",
+  "salary": [
+    "от",
+    " ",
+    "150 000 руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "40 000",
+    "50 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "30 000 руб.",
+    "от",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/algotrejder-ekspert-34622262.html",
+  "min_salary": 150000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937633"
+  },
+  "name": "Senior SQL / PostgreSQL-разработчик",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/senior-sql-34713594.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0a0f267e4e46937634"
+  },
+  "name": "Ведущий администратор Big Data",
+  "salary": [
+    "от",
+    " ",
+    "150 000 руб.",
+    "40 000",
+    " ",
+    "руб.",
+    "40 000",
+    "45 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "55 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-administrator-big-data-34714903.html",
+  "min_salary": 150000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937639"
+  },
+  "name": "Инженер систем мониторинга бизнес-приложений (Application Performance Monitoring, APM)",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/inzhener-sistem-monitoringa-biznes-prilozhenij-34251752.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e4693763b"
+  },
+  "name": "Ведущий инженер СРК",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "28 000 руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "от",
+    " ",
+    "65 000 руб.",
+    "от",
+    " ",
+    "67 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-srk-34433915.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e4693763d"
+  },
+  "name": "Ведущий аналитик клиентского сервиса",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "130 000",
+    "150 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "до",
+    " ",
+    "104 000 руб.",
+    "до",
+    " ",
+    "60 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-analitik-klientskogo-servisa-34672546.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937642"
+  },
+  "name": "Системный администратор Linux",
+  "salary": [
+    "По договорённости",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "184 000",
+    "230 000",
+    " ",
+    "руб.",
+    "35 845",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-linux-34585888.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937644"
+  },
+  "name": "Программист PHP (удаленно)",
+  "salary": [
+    "от",
+    " ",
+    "120 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "104 000 руб.",
+    "от",
+    " ",
+    "140 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/programmist-php-34674963.html",
+  "min_salary": 120000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937645"
+  },
+  "name": "Инженер по автоматизированному тестированию",
+  "salary": [
+    "до",
+    " ",
+    "200 000 руб.",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/inzhener-po-avtomatizirovannomu-testirovaniyu-34645846.html",
+  "min_salary": "none",
+  "max_salary": 200000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937647"
+  },
+  "name": "Разработчик Windows-приложений",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-windows-prilozhenij-34617129.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937648"
+  },
+  "name": "Middle QA Engineer",
+  "salary": [
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/middle-qa-engineer-34664961.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937649"
+  },
+  "name": "PIM Product Manager",
+  "salary": [
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/pim-product-manager-34715464.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937650"
+  },
+  "name": "Программист-стажер Java",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/programmist-stazher-java-34660071.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0b0f267e4e46937651"
+  },
+  "name": "Backend-разработчик",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/backend-razrabotchik-34111905.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e4693765b"
+  },
+  "name": "Системный инженер Linux",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "40 000 руб.",
+    "от",
+    " ",
+    "60 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-linux-34584877.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e4693765c"
+  },
+  "name": "Биоинформатик в области геномики и транскриптомики",
+  "salary": [
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/bioinformatik-v-oblasti-genomiki-i-transkriptomiki-34574371.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e4693765e"
+  },
+  "name": "Тестировщик",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "200 000 руб.",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/testirovschik-34632584.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e46937660"
+  },
+  "name": "Backend-разработчик C/C++",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/backend-razrabotchik-c-34746784.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e46937663"
+  },
+  "name": "Системный администратор (DevOps Senior)",
+  "salary": [
+    "184 000",
+    "230 000",
+    " ",
+    "руб.",
+    "70 000",
+    "80 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "50 000 руб.",
+    "35 845",
+    " ",
+    "руб.",
+    "до",
+    " ",
+    "80 000 руб.",
+    "90 000",
+    "110 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/sistemnyj-administrator-34595978.html",
+  "min_salary": 184000,
+  "max_salary": 230000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e46937665"
+  },
+  "name": "ML/NLP Architect / ML/NLP Архитектор",
+  "salary": [
+    "По договорённости",
+    "38 000",
+    "40 000",
+    " ",
+    "руб.",
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "220 000 руб.",
+    "По договорённости",
+    "50 000",
+    " ",
+    "руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/ml-33788781.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e46937666"
+  },
+  "name": "Младший аналитик данных (junior data scientist)",
+  "salary": [
+    "до",
+    " ",
+    "40 000 руб.",
+    "По договорённости",
+    "По договорённости",
+    "130 000",
+    "150 000",
+    " ",
+    "руб.",
+    "от",
+    " ",
+    "50 000 руб.",
+    "до",
+    " ",
+    "104 000 руб.",
+    "до",
+    " ",
+    "60 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/mladshij-analitik-dannyh-34605996.html",
+  "min_salary": "none",
+  "max_salary": 40000,
+  "currency": "руб.",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0c0f267e4e46937669"
+  },
+  "name": "Разработчик технического зрения (Computer Vision / Image Processing)",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/razrabotchik-tehnicheskogo-zreniya-34233000.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0d0f267e4e4693766d"
+  },
+  "name": "QA-специалист",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "200 000 руб.",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/qa-specialist-34111890.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0d0f267e4e46937671"
+  },
+  "name": "Senior QA engineer",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "до",
+    " ",
+    "200 000 руб.",
+    "По договорённости",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/senior-qa-engineer-32391200.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0d0f267e4e46937672"
+  },
+  "name": "Ведущий инженер по тестированию",
+  "salary": [
+    "По договорённости",
+    "По договорённости",
+    "По договорённости",
+    "от",
+    " ",
+    "28 000 руб.",
+    "от",
+    " ",
+    "80 000 руб.",
+    "от",
+    " ",
+    "65 000 руб.",
+    "от",
+    " ",
+    "67 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/veduschij-inzhener-po-testirovaniyu-34587361.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0d0f267e4e46937674"
+  },
+  "name": "NLP Engineer / NLP инженер",
+  "salary": [
+    "По договорённости",
+    "от",
+    " ",
+    "160 000 руб.",
+    "от",
+    " ",
+    "110 000 руб.",
+    "от",
+    " ",
+    "100 000 руб.",
+    "от",
+    " ",
+    "150 000 руб.",
+    "По договорённости",
+    "до",
+    " ",
+    "40 000 руб."
+  ],
+  "link": "https://www.superjob.ru/vakansii/nlp-engineer-33788780.html",
+  "min_salary": "none",
+  "max_salary": "none",
+  "currency": "none",
+  "source": "superjobru"
+},{
+  "_id": {
+    "$oid": "5f84bd0d0f267e4e46937679"
+  },
+  "name": "Учитель информатики и ИКТ",
+  "salary": [
+    "от",
+    " ",
+    "80 000 руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "78 000 руб.",
+    "от",
+    " ",
+    "78 000 руб.",
+    "По договорённости",
+    "от",
+    " ",
+    "80 000 руб.",
+    "По договорённости"
+  ],
+  "link": "https://www.superjob.ru/vakansii/uchitel-informatiki-i-ikt-30254613.html",
+  "min_salary": 80000,
+  "max_salary": "none",
+  "currency": "руб.",
+  "source": "superjobru"
+}]
